@@ -1,0 +1,37 @@
+collector
+collectionDate
+locationName
+chlorine
+bromine
+ph
+alkalinity
+hardness
+notes
+skyConditions
+cloudCover
+currentPrecipitation
+biometricPressure
+waterColour
+waterSurface
+waterOdour
+turbidity
+waveConditions
+waveFrequency
+waveHeight (m)
+longshoreCurrentSpeed
+longshoreCurrentDirection
+Ducks
+Ducklings
+Gulls
+CanadaGeese
+Goslings
+Cormorants
+Terns
+Swallows
+Herons
+Carp
+RedwingBlackbirds
+Minnows
+Fish (Unidentified)
+Frogs
+Turtles

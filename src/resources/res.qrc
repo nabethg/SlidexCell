@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/down_arrow.png</file>
+    <file>icons/home.png</file>
+    <file>icons/info.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/next.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/prev.png</file>
+    <file>icons/scan.png</file>
+    <file>icons/sdf.png</file>
+    <file>icons/submit.png</file>
+    <file>icons/user.png</file>
+  </qresource>
+  <qresource prefix="img">
+    <file>img/bg.png</file>
+    <file>img/canada-geese.png</file>
+    <file>img/carp.png</file>
+    <file>img/cormorants.png</file>
+    <file>img/ducklings.png</file>
+    <file>img/ducks.png</file>
+    <file>img/fish.png</file>
+    <file>img/frogs.png</file>
+    <file>img/goslings.png</file>
+    <file>img/gulls.png</file>
+    <file>img/herons.png</file>
+    <file>img/minnows.png</file>
+    <file>img/redwing-blackbirds.png</file>
+    <file>img/swallows.png</file>
+    <file>img/terns.png</file>
+    <file>img/turtles.png</file>
+  </qresource>
+</RCC>
