@@ -86,7 +86,7 @@ Thanks to Youssef Saad for creating the slider CAD model and fabricating it.
 ## Acknowledgements
 Special thanks to Megan Coad of SDF for collaborating with our team on SlidexCell.
 
-Our team was awarded the [Ian and Shirley Rowe Innovation & Teamwork Award](https://engineering.calendar.utoronto.ca/scholarships-and-financial-aid):
+Our team was awarded the [Ian and Shirley Rowe Innovation & Community Impact Award](https://engineering.calendar.utoronto.ca/scholarships-and-financial-aid):
 > This award, established through a generous donation by Ian H. and Shirley Rowe, is given to a student team demonstrating values of innovation and teamwork, also exhibiting passion for community impact in undergraduate Praxis courses within the Division of Engineering Science.
 
 [Mockup](../demo/README.md) photos generated using [Mockuphone](https://mockuphone.com/).
